@@ -1,0 +1,12 @@
+game: vim-adventures.com
+plugin pathogen
+muliple cursors: vim-multiple-cursors
+save .vimrc
+vim golf
+syntastic
+the NERD tree
+python-mode
+vim-powerline
+ctrlp.vim
+python_editing
+
