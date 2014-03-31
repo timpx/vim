@@ -21,6 +21,8 @@ noremap <Right> <NOP>
 
 """ line numbers
 set number
+set colorcolumn=80
+highlight ColorColumn ctermbg=223
 
 """ for ctrl-p vim
 set runtimepath^=~/.vim/bundle/ctrlp.vim
@@ -30,3 +32,7 @@ let mapleader = ","
 
 """ open fold by default 
 set foldlevelstart=20
+
+""" monokai colors
+"set t_Co=256
+"color wombat256mod
